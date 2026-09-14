@@ -11,12 +11,14 @@
 
 ## Project Overview 
 
-[Team fills this in together]
+Shows the number of years, mean temperature, warmest year, and sample data.
 
 
 ## Dataset 
 
-[Team chooses and documents] 
+[GlobalTemperatures.csv,
+GlobalLandTemperaturesByState.csv,
+GlobalLandTemperaturesByCountry.csv] 
 
 ## Setup Instructions 
 ```bash
